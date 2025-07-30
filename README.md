@@ -11,4 +11,3 @@ A Rust command-line tool that generates zhiliao Text-to-Speech audio
   - example: `https://api16-normal-useast1a.tiktokv.com`
 3. Build the project with `cargo build --release`, or install with `cargo install --path .`.
 4. Run the tool with `tktts "your text here"`.
-# tktts
